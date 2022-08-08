@@ -1,0 +1,2 @@
+rootProject.name = "imaa"
+include ':app'
